@@ -18,6 +18,14 @@
 
 [CC BY 4.0 知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)（全文见 [LICENSE](LICENSE)）
 
+## 代码推送与镜像同步说明
+
+本项目的代码推送流程如下：
+
+```text
+本地代码 → AtomGit → 自动镜像同步 → 腾讯云 CNB / GitHub / Gitee
+```
+
 ## 请我喝杯咖啡
 
 |     微信赞赏码     |       支付宝        |       支付宝红包        |
@@ -38,11 +46,11 @@
     <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitee.com/iaoexl/life-handbook.git" target="_blank" rel="noopener">
-    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/iaoexl/life-handbook.git" target="_blank" rel="noopener">
     <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitee.com/iaoexl/life-handbook.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
   </a>
 </p>
